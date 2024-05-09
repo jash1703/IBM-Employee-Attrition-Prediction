@@ -1,4 +1,5 @@
 # IBM-Employee-Attrition-Prediction
+
 This folder contains code for predicting employee attrition using machine learning models. The dataset used for this prediction task is the IBM HR Analytics Employee Attrition Dataset, which is available on Kaggle that contains various features about employees and whether they have left the company (attrition) or not.
 
 ## Requirements
@@ -8,13 +9,13 @@ This folder contains code for predicting employee attrition using machine learni
 
 
 ## Usage
-Run the Jupyter Notebook `predictiong_employee_attrition.ipynb`:
+Run the Jupyter Notebook `predicting-employee-attrition.ipynb`:
    ```
-   jupyter notebook employee_attrition_prediction.ipynb
+   jupyter notebook predicting-employee-attrition.ipynb
    ```
    Alternatively, you can run the Python script `predicting_employee_attrition.py` directly:
    ```
-   python employee_attrition_prediction.py
+   python predicting_employee_attrition.py
    ```
 
 
@@ -25,3 +26,4 @@ Run the Jupyter Notebook `predictiong_employee_attrition.ipynb`:
 - The README file provides instructions for running the code and additional information about the project.
 
 #### Note: Make sure all the required libraries or dependencies are satisified before executing the file.
+
